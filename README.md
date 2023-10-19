@@ -7,9 +7,9 @@
  forma.
 
 Equipo 1: 
-Neri Aleman
-Brenda Gonzalez
-Montse Mendez
-Karla Rodriguez
-Fernanda
-Carolina Nava
+Neri Aleman,
+Brenda Gonzalez,
+Montse Mendez,
+Karla Rodriguez,
+Fernanda,
+Carolina Nava.
